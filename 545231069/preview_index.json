@@ -1,7 +1,7 @@
 {
   "qq_number": "1391641425",
   "group_number": "545231069",
-  "updated_at": "2026-10-29T16:05:33+00:00",
+  "updated_at": "2026-10-29T16:22:26+00:00",
   "skins": [
     {
       "name": "瑥月の慵懒轻松熊 Q1391641425",
@@ -816,16 +816,16 @@
     },
     {
       "name": "萌物聚会",
+      "file": "萌物聚会.bdi",
+      "thumb": "萌物聚会.bdi_py_26_light_thumb.png",
+      "full": "萌物聚会.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "萌物聚会",
       "file": "萌物聚会.bds",
       "thumb": "萌物聚会.bds_py_26_light_thumb.png",
       "full": "萌物聚会.bds_py_26_light_thumb.png",
       "file_id": "7ffafc99a9b37c90459a01d32c398ef2"
-    },
-    {
-      "name": "萌物聚会",
-      "file": "萌物聚会.bdi",
-      "thumb": "萌物聚会.bdi_py_26_light_thumb.png",
-      "full": "萌物聚会.bdi_py_26_light_thumb.png"
     }
   ]
 }
