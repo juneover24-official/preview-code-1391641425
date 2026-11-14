@@ -1,7 +1,7 @@
 {
   "qq_number": "1391641425",
   "group_number": "545231069",
-  "updated_at": "2026-11-14T04:32:22+00:00",
+  "updated_at": "2026-11-14T04:32:27+00:00",
   "skins": [
     {
       "name": "瑥月の慵懒轻松熊 Q1391641425",
@@ -856,6 +856,12 @@
       "file": "粉嘟嘟小狗.bdi",
       "thumb": "粉嘟嘟小狗.bdi_py_26_light_thumb.png",
       "full": "粉嘟嘟小狗.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "兔兔家的筑巢小鸡",
+      "file": "兔兔家的筑巢小鸡.bds",
+      "thumb": "兔兔家的筑巢小鸡.bds_py_26_light_thumb.png",
+      "full": "兔兔家的筑巢小鸡.bds_py_26_light_thumb.png"
     }
   ]
 }
